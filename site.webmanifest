@@ -1,0 +1,19 @@
+{
+  "name": "BLUVEGAS – Online Casino in Deutschland | $680 + 160 FS",
+  "short_name": "BLUVEGAS",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#d4af37",
+  "background_color": "#0d0a07",
+  "display": "standalone"
+}
